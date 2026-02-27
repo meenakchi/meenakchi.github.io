@@ -34,3 +34,9 @@ body {
   box-shadow: 1px 1px 0 0 #ffffff inset, 2px 2px 0 0 #dfdfdf inset, 1px 1px 0 0 #000000, 2px 2px 0 0 #808080;
   display: none;
 }
+
+.bio-pic {
+  width: 150px;
+  image-rendering: pixelated;
+  filter: sepia(80%) contrast(1.1);
+}
